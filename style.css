@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px ;
+}
+
+nav>div>a{
+    margin: 10px;
+    text-decoration: none;
+    font-family: poppin;
+    color: black;
+}
+.my-heading>h2{
+    margin:10px ;
+}
